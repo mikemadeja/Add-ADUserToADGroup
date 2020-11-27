@@ -1,0 +1,21 @@
+{
+    "ADGroups":[
+       {
+          "Office":"Chicago",
+          "Groups":["Office_Chicago", "Chicago_FS", "Chicago_FS2"]
+       },
+       {
+          "Office":"New York",
+          "Groups":["Office_NewYork", "NewYork_FS"]
+       },
+       {
+         "Office":"San Diego",
+         "Groups":["Office_SanDiego", "SanDiego_FS"]
+       },
+       {
+         "Office":"Dallas",
+         "Groups":["Office_Dallas", "Dallas_FS"]
+       }
+       
+    ]
+ }
